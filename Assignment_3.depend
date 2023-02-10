@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665407994 source:c:\comp20080\assignment_3\doctor.cpp
+	<iostream>
+	"Doctor.h"
+
+1665407994 c:\comp20080\assignment_3\doctor.h
+
+1665407994 source:c:\comp20080\assignment_3\doctormain.cpp
+	<iostream>
+	"Doctor.h"
+
